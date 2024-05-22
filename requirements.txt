@@ -1,0 +1,4 @@
+matplotlib
+openai
+parea-ai
+torch
