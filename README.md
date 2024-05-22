@@ -1,5 +1,7 @@
 # ML Classification vs LLM Classification
 
+![Screenshot](./experiment_screenshot.png)
+
 This demo repo compares a Pytorch RNN model vs an LLM for simple classification tasks.
 
 ## Environment Setup
