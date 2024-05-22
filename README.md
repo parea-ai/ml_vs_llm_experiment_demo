@@ -24,7 +24,11 @@ export PAREA_API_KEY= <YOUR OPENAI API KEY>
 
 ## Get Started
 
-run main/rnn_experiment.py
+```bash
+pip install -r requirements.txt
+```
+
+Then run main/rnn_experiment.py
 
 ## Results
 
