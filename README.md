@@ -4,6 +4,8 @@
 
 This demo repo compares a Pytorch RNN model vs an LLM for simple classification tasks.
 
+*RNN model [source](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html)*
+
 ## Environment Setup
 
 _Copy the `.env.example` file to `.env` and fill in the values. Or export values in shell._
